@@ -1,4 +1,4 @@
 #Hà Ngọc Minh- BIT230495 - 23IT1
 
-#Float Layout
+#FlexBox Layout
 ![alt text](image.png)
